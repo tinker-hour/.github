@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@TinkerHour"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@TinkerHour-FF7A2F?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1B2238"></a>
+  <a href="https://tinkerhour.com"><img alt="Website" src="https://img.shields.io/badge/Web-tinkerhour.com-FFC53D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1B2238"></a>
   <a href="https://github.com/tinker-hour/code"><img alt="Code" src="https://img.shields.io/badge/Code-every_episode-2EC4B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1B2238"></a>
 </p>
 
@@ -31,5 +32,7 @@ cd code/<series>/<episode>
 ```
 
 Every episode folder has its own README with the commands shown in the video.
+
+📬 Say hello: **hello@tinkerhour.com**
 
 <p align="center"><sub>Grab a coffee ☕. It's Tinker Hour.</sub></p>
